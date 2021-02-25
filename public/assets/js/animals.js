@@ -41,7 +41,6 @@ const getAnimals = (formData = {}) => {
     printResults(animalData);
   });
 
-  console.log(queryUrl);
 
 };
 
