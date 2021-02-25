@@ -1,4 +1,3 @@
-const e = require('express');
 const express = require('express');
 const { animals } = require('./data/animals');
 const fs = require('fs');
@@ -8,6 +7,7 @@ const PORT = process.env.PORT || 3001;
 const app = express();
 
 // parse incoming string or array data
+// middleware
 app.use(express.urlencoded({ extended: true}));
 // parse incoming JSON data
 app.use(express.json());
