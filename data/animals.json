@@ -135,6 +135,20 @@
     },
     {
       "id": "15"
+    },
+    {
+      "name": "Bob",
+      "species": "Tigers",
+      "diet": "carnivore",
+      "personalityTraits": [],
+      "id": "16"
+    },
+    {
+      "name": "Test",
+      "species": "Lion",
+      "diet": "carnivore",
+      "personalityTraits": [],
+      "id": "17"
     }
   ]
 }
