@@ -14,3 +14,4 @@ This app is run by node.js command in the Terminal. It was created for assignmen
 
 <img width="1352" alt="zookeepr1" src="https://user-images.githubusercontent.com/40181569/109250414-45dc9c00-77af-11eb-8480-bc2d0d4dc9db.png">
 
+<img width="1348" alt="Screen Shot 2021-02-25 at 9 19 39 PM" src="https://user-images.githubusercontent.com/40181569/109250542-7c1a1b80-77af-11eb-8632-f96b45ce5358.png">
