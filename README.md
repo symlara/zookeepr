@@ -12,3 +12,4 @@ This app is run by node.js command in the Terminal. It was created for assignmen
 * Jest
 * Heroku - system used to deploy app onto internet
 
+<img width="1352" alt="zookeepr1" src="https://user-images.githubusercontent.com/40181569/109250414-45dc9c00-77af-11eb-8480-bc2d0d4dc9db.png">
